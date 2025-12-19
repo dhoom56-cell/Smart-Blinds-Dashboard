@@ -49,12 +49,14 @@ streamlit run app.py
 
 http://localhost:8501
 
+## 🌐 Live Deployment (AWS EC2)
 
-🌐 Live Deployment (AWS EC2)
+The Streamlit dashboard is deployed on an AWS EC2 Free Tier instance.
 
-The application can be deployed on AWS EC2 and accessed via:
+🔗 Live URL:
+http://51.21.202.13:8501
 
-http://<EC2_PUBLIC_IP>:8501
+Note: The application is hosted on an EC2 Ubuntu server and exposed via port 8501.
 
 
 📊 Dataset Description
