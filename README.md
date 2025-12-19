@@ -46,7 +46,7 @@ Run the Streamlit app:
 streamlit run app.py
 
 Open the browser and go to:
-http://localhost:8501
+(http://16.170.225.196:8501)
 
 
 📊 Dataset Description
